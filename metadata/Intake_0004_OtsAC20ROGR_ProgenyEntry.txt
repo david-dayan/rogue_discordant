@@ -1,0 +1,212 @@
+Pedigree	Individual Name	FieldID1	FieldID2	DateSampled	ReleaseDate	Stream	Launch	IndividualSampleLOCATION	ReleaseLocation	SPECIES	SpeciesID	Jar	Run	Age	Gender	MEPS Length (mm)	LengthMEPS	FORK LENGTH (mm)	LengthFork1	ScaleNumber	Marks	CaptureMethod	Sampler	PITTagNum	COMMENTSGeneral
+OtsAC20ROGR	OtsAC20ROGR_0001	1		4/5/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0002	2		4/5/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0003	3		4/6/2020		Rogue River	Port	Elephant Rock			17			Adult							Unmarked	Angler	Verne Tarwater		
+OtsAC20ROGR	OtsAC20ROGR_0004	4		4/8/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0005	5		4/8/2020		Rogue River	Mill Site	Willows			17			Adult							Unmarked	Angler	Tom Hope		
+OtsAC20ROGR	OtsAC20ROGR_0006	6		4/8/2020		Rogue River	Mill Site	Willows			17			Adult							Unmarked	Angler	Tom Hope		
+OtsAC20ROGR	OtsAC20ROGR_0007	7		4/9/2020		Rogue River	Lobster Creek	Dunk			17			Adult							Unmarked	Angler	Rick Howard		
+OtsAC20ROGR	OtsAC20ROGR_0008	8		4/9/2020		Rogue River	Quosatana	Cole Riffle			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0009	9		4/11/2020		Rogue River	Lobster Creek	Shallow Riffle			17			Adult							Unmarked	Angler	Steve Mazur		
+OtsAC20ROGR	OtsAC20ROGR_0010	10		4/12/2020		Rogue River	Mill Site	Elephant Rock			17			Adult							Unmarked	Angler	John Weber		
+OtsAC20ROGR	OtsAC20ROGR_0011	11		4/14/2020		Rogue River	Quosatana	Cole Riffle			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0012	12		4/14/2020		Rogue River	Quosatana	Cole Riffle			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0013	13		4/15/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Joe Janowicz		
+OtsAC20ROGR	OtsAC20ROGR_0014	14		4/27/2020		Rogue River	Lobster Creek	Dunk			17			Adult							Unmarked	Angler	Rick Howard		
+OtsAC20ROGR	OtsAC20ROGR_0015	15		5/3/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Joe Janowicz		
+OtsAC20ROGR	OtsAC20ROGR_0016	16		5/3/2020		Rogue River	Mill Site	Snag Patch			17			Adult							Unmarked	Angler	Stan Atkinson		
+OtsAC20ROGR	OtsAC20ROGR_0017	17		5/5/2020		Rogue River	Lobster Creek	Dunk			17			Adult							Unmarked	Angler	Cliff Lance		
+OtsAC20ROGR	OtsAC20ROGR_0018	18		5/6/2020		Rogue River	Mill Site	Clay Banks			17			Adult							Unmarked	Angler	Tom Hope		
+OtsAC20ROGR	OtsAC20ROGR_0019	19		5/8/2020		Rogue River	Mill Site	226			17			Adult							Unmarked	Angler	Stan Atkinson		
+OtsAC20ROGR	OtsAC20ROGR_0020	20		5/12/2020		Rogue River	Quosatana	226			17			Adult							Unmarked	Angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0021	21		5/12/2020		Rogue River	Mill Site	Clay Banks			17			Adult							Unmarked	Angler	Shane Blair		
+OtsAC20ROGR	OtsAC20ROGR_0022	22		5/13/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Shaun Carpenter		
+OtsAC20ROGR	OtsAC20ROGR_0023	23		5/13/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Shaun Carpenter		
+OtsAC20ROGR	OtsAC20ROGR_0024	24		5/14/2020		Rogue River	Mill Site	Elephant Rock			17			Adult							Unmarked	Angler	John Anderson		
+OtsAC20ROGR	OtsAC20ROGR_0025	25		5/14/2020		Rogue River	Mill Site	Willows			17			Adult							Unmarked	Angler	Ronnie Davis		Sample taken, never received
+OtsAC20ROGR	OtsAC20ROGR_0026	26		5/15/2020		Rogue River	Mill Site	Elephant Rock			17			Adult							Unmarked	Angler	John Anderson		
+OtsAC20ROGR	OtsAC20ROGR_0027	27		5/16/2020		Rogue River	Mill Site	Willows			17			Adult							Unmarked	Angler	Shane Blair		
+OtsAC20ROGR	OtsAC20ROGR_0028	28		5/17/2020		Rogue River	Mill Site	226			17			Adult							Unmarked	Angler	Stan Atkinson		
+OtsAC20ROGR	OtsAC20ROGR_0029	29		5/17/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0030	30		5/17/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0031	31		5/19/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0032	32		5/19/2020		Rogue River	Port	Elephant Rock			17			Adult							Unmarked	Angler	Gene Garner		
+OtsAC20ROGR	OtsAC20ROGR_0033	33		5/19/2020		Rogue River	Port	Elephant Rock			17			Adult							Unmarked	Angler	Gene Garner		
+OtsAC20ROGR	OtsAC20ROGR_0034	34		5/19/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	angler	Rick Howard		
+OtsAC20ROGR	OtsAC20ROGR_0035	35		5/20/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Shaun Carpenter		
+OtsAC20ROGR	OtsAC20ROGR_0036	36		5/20/2020		Rogue River	Port	Elephant Rock			17			Adult							Unmarked	Angler	Gene Garner		
+OtsAC20ROGR	OtsAC20ROGR_0037	37		5/21/2020		Rogue River	Lobster Creek	Dunk			17			Adult							Unmarked	Angler	Rick Howard		
+OtsAC20ROGR	OtsAC20ROGR_0038	38		5/22/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0039	39		5/22/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0040	40		5/22/2020		Rogue River	Lobster Creek	Dunk			17			Adult							Unmarked	angler	Rick Howard		
+OtsAC20ROGR	OtsAC20ROGR_0041	41		5/22/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0042	42		5/22/2020		Rogue River	Mill Site	Elephant Rock			17			Adult							Unmarked	Angler	John Anderson		
+OtsAC20ROGR	OtsAC20ROGR_0043	43		5/22/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Shaun Carpenter		
+OtsAC20ROGR	OtsAC20ROGR_0044	44		5/22/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Shaun Carpenter		
+OtsAC20ROGR	OtsAC20ROGR_0045	45		5/24/2020		Rogue River	Mill Site	Willows			17			Adult							Unmarked	angler	Stan Atkinson		
+OtsAC20ROGR	OtsAC20ROGR_0046	46		5/26/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0047	47		5/26/2020		Rogue River	Mill Site	Clay Banks			17			Adult							Unmarked	Angler	Shane Blair		
+OtsAC20ROGR	OtsAC20ROGR_0048	48		6/2/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Shaun Carpenter		
+OtsAC20ROGR	OtsAC20ROGR_0049	49		6/2/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Shaun Carpenter		
+OtsAC20ROGR	OtsAC20ROGR_0050	50		6/4/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0051	51		6/7/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	angler	Ronnie Davis		
+OtsAC20ROGR	OtsAC20ROGR_0052	52		6/9/2020		Rogue River	Lobster Creek	Dunk			17			Adult							Unmarked	Angler	Rick Howard		
+OtsAC20ROGR	OtsAC20ROGR_0053	53		6/10/2020		Rogue River	Mill Site	Upper Rogue			17			Adult							Unmarked	Angler	Tom Hope		
+OtsAC20ROGR	OtsAC20ROGR_0054	54		6/10/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0055	55		6/10/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0056	56		6/10/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0057	57		6/10/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0058	58		6/10/2020		Rogue River	Lobster Creek	Lobster 			17			Adult							Unmarked	Angler	Mike Hull		
+OtsAC20ROGR	OtsAC20ROGR_0059	59		6/13/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0060	60		6/14/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0061	61		6/14/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0062	62		6/17/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Shaun Carpenter		
+OtsAC20ROGR	OtsAC20ROGR_0063	63		6/17/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Shaun Carpenter		
+OtsAC20ROGR	OtsAC20ROGR_0064	64		6/17/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Shaun Carpenter		
+OtsAC20ROGR	OtsAC20ROGR_0065	65		6/19/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0066	66		6/19/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0067	67		6/20/2020		Rogue River	Quosatana	Quosatana			17			Adult							Unmarked	Angler	Greg Eide		
+OtsAC20ROGR	OtsAC20ROGR_0068	68		7/8/2020		Rogue River	Rogue Bay	Rogue Bay			17			Adult							Unmarked	Cleaning Station	Huntley Crew		Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0069	69		7/16/2020		Rogue River	Rogue Bay	Rogue Bay			17			Adult							Unmarked	Cleaning Station	Huntley Crew		Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0070	70		7/16/2020		Rogue River	Rogue Bay	Rogue Bay			17			Adult							Unmarked	Cleaning Station	Huntley Crew		Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0071	71		7/16/2020		Rogue River	Rogue Bay	Rogue Bay			17			Jack							Unmarked	Cleaning Station	Huntley Crew		Jack, Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0072	72		7/16/2020		Rogue River	Rogue Bay	Rogue Bay			17			Jack							Unmarked	Cleaning Station	Huntley Crew		Jack, Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0073	73		7/16/2020		Rogue River	Rogue Bay	Rogue Bay			17			Jack							Unmarked	Cleaning Station	Huntley Crew		Jack, Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0074	74		7/16/2020		Rogue River	Rogue Bay	Rogue Bay			17			Jack							Unmarked	Cleaning Station	Huntley Crew		Jack, Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0075	75		7/19/2020		Rogue River	Rogue Bay	Rogue Bay			17			Jack							Unmarked	Cleaning Station	Huntley Crew		Jack, Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0076	76		7/19/2020		Rogue River	Rogue Bay	Rogue Bay			17			Adult							Unmarked	Cleaning Station	Huntley Crew		Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0077	77		7/19/2020		Rogue River	Rogue Bay	Rogue Bay			17			Adult							Unmarked	Cleaning Station	Huntley Crew		Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0078	78		7/19/2020		Rogue River	Rogue Bay	Rogue Bay			17			Adult							Unmarked	Cleaning Station	Huntley Crew		Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0079	79		7/19/2020		Rogue River	Rogue Bay	Rogue Bay			17			Adult							Unmarked	Cleaning Station	Huntley Crew		Feeder **BAY**
+OtsAC20ROGR	OtsAC20ROGR_0080	80		7/21/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0081	81		7/21/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0082	82		7/29/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0083	83		7/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0084	84		7/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0085	85		8/7/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0086	86		8/12/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0087	87		8/12/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0088	88		8/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0089	89		8/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0090	90		8/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0091	91		8/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0092	92		8/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0093	93		8/19/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0094	94		8/21/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0095	95		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27765
+OtsAC20ROGR	OtsAC20ROGR_0096	96		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	seine	Huntley Crew		27766
+OtsAC20ROGR	OtsAC20ROGR_0097	97		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27768
+OtsAC20ROGR	OtsAC20ROGR_0098	98		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27769
+OtsAC20ROGR	OtsAC20ROGR_0099	99		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27903
+OtsAC20ROGR	OtsAC20ROGR_0100	100		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27904
+OtsAC20ROGR	OtsAC20ROGR_0101	101		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27905
+OtsAC20ROGR	OtsAC20ROGR_0102	102		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27906
+OtsAC20ROGR	OtsAC20ROGR_0103	103		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27910
+OtsAC20ROGR	OtsAC20ROGR_0104	104		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27911
+OtsAC20ROGR	OtsAC20ROGR_0105	105		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27912
+OtsAC20ROGR	OtsAC20ROGR_0106	106		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27914
+OtsAC20ROGR	OtsAC20ROGR_0107	107		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27915
+OtsAC20ROGR	OtsAC20ROGR_0108	108		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27916
+OtsAC20ROGR	OtsAC20ROGR_0109	109		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		27918
+OtsAC20ROGR	OtsAC20ROGR_0110	110		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	seine	Huntley Crew		28078
+OtsAC20ROGR	OtsAC20ROGR_0111	111		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28079
+OtsAC20ROGR	OtsAC20ROGR_0112	112		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28080
+OtsAC20ROGR	OtsAC20ROGR_0113	113		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28081
+OtsAC20ROGR	OtsAC20ROGR_0114	114		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28082
+OtsAC20ROGR	OtsAC20ROGR_0115	115		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28083
+OtsAC20ROGR	OtsAC20ROGR_0116	116		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28084
+OtsAC20ROGR	OtsAC20ROGR_0117	117		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28085
+OtsAC20ROGR	OtsAC20ROGR_0118	118		8/26/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28086
+OtsAC20ROGR	OtsAC20ROGR_0119	119		8/28/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28118
+OtsAC20ROGR	OtsAC20ROGR_0120	120		8/28/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28210
+OtsAC20ROGR	OtsAC20ROGR_0121	121		8/28/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28327
+OtsAC20ROGR	OtsAC20ROGR_0122	122		8/28/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28329
+OtsAC20ROGR	OtsAC20ROGR_0123	123		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28377
+OtsAC20ROGR	OtsAC20ROGR_0124	124		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28392
+OtsAC20ROGR	OtsAC20ROGR_0125	125		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28394
+OtsAC20ROGR	OtsAC20ROGR_0126	126		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28424
+OtsAC20ROGR	OtsAC20ROGR_0127	127		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28428
+OtsAC20ROGR	OtsAC20ROGR_0128	128		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28429
+OtsAC20ROGR	OtsAC20ROGR_0129	129		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28456
+OtsAC20ROGR	OtsAC20ROGR_0130	130		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28464
+OtsAC20ROGR	OtsAC20ROGR_0131	131		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0132	132		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0133	133		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0134	134		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0135	135		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0136	136		8/31/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0137	137		9/2/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28536
+OtsAC20ROGR	OtsAC20ROGR_0138	138		9/2/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28597
+OtsAC20ROGR	OtsAC20ROGR_0139	139		9/2/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28598
+OtsAC20ROGR	OtsAC20ROGR_0140	140		9/2/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28600
+OtsAC20ROGR	OtsAC20ROGR_0141	141		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28620
+OtsAC20ROGR	OtsAC20ROGR_0142	142		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28624
+OtsAC20ROGR	OtsAC20ROGR_0143	143		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28630
+OtsAC20ROGR	OtsAC20ROGR_0144	144		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28631
+OtsAC20ROGR	OtsAC20ROGR_0145	145		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28637
+OtsAC20ROGR	OtsAC20ROGR_0146	146		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	seine	Huntley Crew		28640
+OtsAC20ROGR	OtsAC20ROGR_0147	147		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28641
+OtsAC20ROGR	OtsAC20ROGR_0148	148		9/4/2020		Rogue River	Huntley Park	Huntley Park			17	.		Adult							Unmarked	Seine	Huntley Crew		28643
+OtsAC20ROGR	OtsAC20ROGR_0149	149		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28645
+OtsAC20ROGR	OtsAC20ROGR_0150	150		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28646
+OtsAC20ROGR	OtsAC20ROGR_0151	151		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28647
+OtsAC20ROGR	OtsAC20ROGR_0152	152		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28648
+OtsAC20ROGR	OtsAC20ROGR_0153	153		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28649
+OtsAC20ROGR	OtsAC20ROGR_0154	154		9/4/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28678
+OtsAC20ROGR	OtsAC20ROGR_0155	155		9/9/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0156	156		9/9/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0157	157		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28876
+OtsAC20ROGR	OtsAC20ROGR_0158	158		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28817
+OtsAC20ROGR	OtsAC20ROGR_0159	159		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28820
+OtsAC20ROGR	OtsAC20ROGR_0160	160		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	seine	Huntley Crew		28821
+OtsAC20ROGR	OtsAC20ROGR_0161	161		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28823
+OtsAC20ROGR	OtsAC20ROGR_0162	162		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28835
+OtsAC20ROGR	OtsAC20ROGR_0163	163		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28877
+OtsAC20ROGR	OtsAC20ROGR_0164	164		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28886
+OtsAC20ROGR	OtsAC20ROGR_0165	165		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	seine	Huntley Crew		28887
+OtsAC20ROGR	OtsAC20ROGR_0166	166		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0167	167		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0168	168		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0169	169		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0170	170		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0171	171		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0172	172		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0173	173		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0174	174		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0175	175		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0176	176		9/11/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0177	177		9/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28931
+OtsAC20ROGR	OtsAC20ROGR_0178	178		9/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28943
+OtsAC20ROGR	OtsAC20ROGR_0179	179		9/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0180	180		9/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0181	181		9/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0182	182		9/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0183	183		9/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0184	184		9/14/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0185	185		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28971
+OtsAC20ROGR	OtsAC20ROGR_0186	186		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28972
+OtsAC20ROGR	OtsAC20ROGR_0187	187		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28975
+OtsAC20ROGR	OtsAC20ROGR_0188	188		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28977
+OtsAC20ROGR	OtsAC20ROGR_0189	189		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28982
+OtsAC20ROGR	OtsAC20ROGR_0190	190		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28986
+OtsAC20ROGR	OtsAC20ROGR_0191	191		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28987
+OtsAC20ROGR	OtsAC20ROGR_0192	192		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28989
+OtsAC20ROGR	OtsAC20ROGR_0193	193		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		28996
+OtsAC20ROGR	OtsAC20ROGR_0194	194		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29002
+OtsAC20ROGR	OtsAC20ROGR_0195	195		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29024
+OtsAC20ROGR	OtsAC20ROGR_0196	196		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29053
+OtsAC20ROGR	OtsAC20ROGR_0197	197		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0198	198		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29007
+OtsAC20ROGR	OtsAC20ROGR_0199	199		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29031
+OtsAC20ROGR	OtsAC20ROGR_0200	200		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29003
+OtsAC20ROGR	OtsAC20ROGR_0201	201		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29009
+OtsAC20ROGR	OtsAC20ROGR_0202	202		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29020
+OtsAC20ROGR	OtsAC20ROGR_0203	203		9/16/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29044
+OtsAC20ROGR	OtsAC20ROGR_0204	204		9/18/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29083
+OtsAC20ROGR	OtsAC20ROGR_0205	205		9/18/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29080
+OtsAC20ROGR	OtsAC20ROGR_0206	206		9/21/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29124
+OtsAC20ROGR	OtsAC20ROGR_0207	207		9/23/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29176
+OtsAC20ROGR	OtsAC20ROGR_0208	208		9/23/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		
+OtsAC20ROGR	OtsAC20ROGR_0209	209		9/28/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29218
+OtsAC20ROGR	OtsAC20ROGR_0210	210		9/28/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29219
+OtsAC20ROGR	OtsAC20ROGR_0211	211		9/30/2020		Rogue River	Huntley Park	Huntley Park			17			Adult							Unmarked	Seine	Huntley Crew		29229

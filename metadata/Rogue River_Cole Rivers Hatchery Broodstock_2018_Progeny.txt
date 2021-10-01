@@ -1,0 +1,1576 @@
+SFGL ID	Vial #	Jar #	Date	Wild/Hatchery	Species	Run	comment	Age	Basin
+OtsAC18CORH_0101	1	1	5/15/2018	Wild	Chinook	Spring	unmarked	Adult	Rogue
+OtsAC18CORH_0201	1	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0202	2	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0203	3	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0204	4	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0205	5	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0206	6	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0207	7	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0208	8	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0209	9	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0210	10	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0211	11	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0212	12	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0213	13	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0214	14	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0215	15	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0216	16	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0217	17	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0218	18	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0219	19	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0220	20	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0221	21	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0222	22	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0223	23	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0224	24	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0225	25	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0226	26	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0227	27	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0228	28	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0229	29	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0230	30	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0231	31	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0232	32	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0233	33	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0234	34	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0235	35	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0236	36	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0237	37	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0238	38	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0239	39	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0240	40	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0241	41	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0242	42	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0243	43	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0244	44	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0245	45	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0246	46	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0247	47	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0248	48	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0249	49	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0250	50	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0251	51	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0252	52	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0253	53	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0254	54	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0255	55	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0256	56	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0257	57	2	5/15/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0301	1	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0302	2	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0303	3	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0304	4	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0305	5	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0306	6	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0307	7	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0308	8	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0309	9	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0310	10	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0311	11	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0312	12	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0313	13	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0314	14	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0315	15	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0316	16	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0317	17	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0318	18	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0319	19	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0320	20	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0321	21	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0322	22	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0323	23	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0324	24	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0325	25	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0326	26	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0327	27	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0328	28	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0329	29	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0330	30	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0331	31	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0332	32	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0333	33	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0334	34	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0335	35	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0336	36	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0337	37	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0338	38	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0339	39	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0340	40	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0341	41	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0342	42	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0343	43	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0344	44	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0345	45	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0346	46	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0347	47	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0348	48	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0349	49	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0350	50	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0351	51	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0352	52	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0353	53	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0354	54	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0355	55	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0356	56	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0357	57	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0358	58	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0359	59	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0360	60	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0361	61	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0362	62	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0363	63	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0364	64	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0365	65	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0366	66	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0367	67	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0368	68	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0369	69	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0370	70	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0371	71	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0372	72	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0373	73	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0374	74	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0375	75	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0376	76	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0377	77	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0378	78	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0379	79	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0380	80	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0381	81	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0382	82	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0383	83	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0384	84	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0385	85	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0386	86	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0387	87	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0388	88	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0389	89	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0390	90	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0391	91	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0392	92	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0393	93	3	5/16/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0401	1	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0402	2	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0403	3	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0404	4	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0405	5	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0406	6	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0407	7	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0408	8	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0409	9	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0410	10	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0411	11	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0412	12	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0413	13	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0414	14	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0415	15	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0416	16	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0417	17	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0418	18	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0419	19	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0420	20	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0421	21	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0422	22	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0423	23	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0424	24	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0425	25	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0426	26	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0427	27	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0428	28	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0429	29	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0430	30	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0431	31	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0432	32	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0433	33	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0434	34	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0435	35	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0436	36	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0437	37	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0438	38	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0439	39	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0440	40	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0441	41	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0442	42	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0443	43	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0444	44	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0445	45	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0446	46	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0447	47	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0448	48	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0449	49	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0450	50	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0451	51	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0452	52	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0453	53	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0454	54	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0455	55	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0456	56	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0457	57	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0458	58	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0459	59	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0460	60	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0461	61	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0462	62	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0463	63	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0464	64	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0465	65	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0466	66	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0467	67	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0468	68	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0469	69	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0470	70	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0471	71	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0472	72	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0473	73	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0474	74	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0475	75	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0476	76	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0477	77	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0478	78	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0479	79	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0480	80	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0481	81	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0482	82	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0483	83	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0484	84	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0485	85	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0486	86	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0487	87	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0488	88	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0489	89	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0490	90	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0491	91	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0492	92	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0493	93	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0494	94	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0495	95	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0496	96	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0497	97	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0498	98	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0499	99	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2400	100	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2401	101	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2402	102	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2403	103	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2404	104	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2405	105	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2406	106	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2407	107	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2408	108	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2409	109	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2410	110	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2411	111	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2412	112	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2413	113	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2414	114	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2415	115	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2416	116	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2417	117	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2418	118	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2419	119	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2420	120	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2421	121	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2422	122	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2423	123	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2424	124	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2425	125	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2426	126	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2427	127	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2428	128	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2429	129	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2430	130	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2431	131	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2432	132	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2433	133	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2434	134	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2435	135	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2436	136	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2437	137	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2438	138	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2439	139	4	5/23/2018	Hatchery	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0501	1	5	5/23/2018	Wild	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0502	2	5	5/23/2018	Wild	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0503	3	5	5/23/2018	Wild	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0504	4	5	5/23/2018	Wild	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0505	5	5	5/23/2018	Wild	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0506	6	5	5/23/2018	Wild	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0507	7	5	5/23/2018	Wild	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0508	8	5	5/23/2018	Wild	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0509	9	5	5/23/2018	Wild	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0601	1	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0602	2	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0603	3	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0604	4	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0605	5	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0606	6	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0607	7	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0608	8	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0609	9	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0610	10	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0611	11	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0612	12	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0613	13	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0614	14	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0615	15	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0616	16	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0617	17	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0618	18	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0619	19	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0620	20	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0621	21	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0622	22	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0623	23	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0624	24	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0625	25	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0626	26	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0627	27	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0628	28	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0629	29	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0630	30	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0631	31	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0632	32	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0633	33	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0634	34	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0635	35	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0636	36	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0637	37	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0638	38	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0639	39	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0640	40	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0641	41	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0642	42	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0643	43	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0644	44	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0645	45	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0646	46	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0647	47	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0648	48	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0649	49	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0650	50	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0651	51	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0652	52	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0653	53	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0654	54	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0655	55	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0656	56	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0657	57	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0658	58	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0659	59	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0660	60	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0661	61	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0662	62	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0663	63	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0664	64	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0665	65	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0666	66	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0667	67	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0668	68	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0669	69	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0670	70	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0671	71	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0672	72	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0673	73	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0674	74	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0675	75	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0676	76	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0677	77	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0678	78	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0679	79	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0680	80	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0681	81	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0682	82	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0683	83	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0684	84	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0685	85	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0686	86	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0687	87	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0688	88	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0689	89	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0690	90	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0691	91	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0692	92	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0693	93	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0694	94	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0695	95	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0696	96	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0697	97	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0698	98	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0699	99	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2600	100	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2601	101	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2602	102	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2603	103	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2604	104	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2605	105	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2606	106	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2607	107	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2608	108	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2609	109	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2610	110	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2611	111	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2612	112	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2613	113	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2614	114	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2615	115	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2616	116	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2617	117	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2618	118	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2619	119	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2620	120	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2621	121	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2622	122	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2623	123	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2624	124	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2625	125	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2626	126	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2627	127	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2628	128	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2629	129	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2630	130	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2631	131	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2632	132	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2633	133	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2634	134	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2635	135	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2636	136	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2637	137	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2638	138	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2639	139	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2640	140	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2641	141	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2642	142	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2643	143	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2644	144	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2645	145	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2646	146	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2647	147	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2648	148	6	5/30/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0701	1	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0702	2	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0703	3	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0704	4	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0705	5	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0706	6	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0707	7	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0708	8	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0709	9	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0710	10	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0711	11	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0712	12	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0713	13	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0714	14	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0715	15	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0716	16	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0717	17	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0718	18	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0719	19	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0720	20	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0721	21	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0722	22	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0723	23	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0724	24	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0725	25	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0726	26	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0727	27	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0728	28	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0729	29	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0730	30	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0731	31	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0732	32	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0733	33	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0734	34	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0735	35	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0736	36	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0737	37	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0738	38	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0739	39	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0740	40	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0741	41	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0742	42	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0743	43	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0744	44	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0745	45	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0746	46	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0747	47	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0748	48	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0749	49	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0750	50	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0751	51	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0752	52	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0753	53	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0754	54	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0755	55	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0756	56	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0757	57	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0758	58	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0759	59	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0760	60	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0761	61	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0762	62	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0763	63	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0764	64	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0765	65	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0766	66	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0767	67	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0768	68	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0769	69	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0770	70	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0771	71	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0772	72	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0773	73	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0774	74	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0775	75	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0776	76	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0777	77	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0778	78	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0779	79	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0780	80	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0781	81	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0782	82	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0783	83	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0784	84	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0785	85	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0786	86	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0787	87	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0788	88	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0789	89	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0790	90	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0791	91	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0792	92	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0793	93	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0794	94	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0795	95	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0796	96	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0797	97	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0798	98	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0799	99	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2700	100	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2701	101	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2702	102	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2703	103	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2704	104	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2705	105	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2706	106	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2707	107	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2708	108	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2709	109	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2710	110	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2711	111	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2712	112	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2713	113	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2714	114	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2715	115	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2716	116	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2717	117	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2718	118	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2719	119	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2720	120	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2721	121	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2722	122	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2723	123	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2724	124	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2725	125	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2726	126	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2727	127	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2728	128	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2729	129	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2730	130	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2731	131	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2732	132	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2733	133	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2734	134	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2735	135	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2736	136	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2737	137	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2738	138	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2739	139	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2740	140	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2741	141	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2742	142	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2743	143	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2744	144	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2745	145	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2746	146	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2747	147	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2748	148	7	6/6/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0801	1	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0802	2	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0803	3	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0804	4	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0805	5	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0806	6	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0807	7	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0808	8	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0809	9	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0810	10	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0811	11	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0812	12	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0813	13	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0814	14	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0815	15	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0816	16	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0817	17	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0818	18	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0819	19	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0820	20	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0821	21	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0822	22	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0823	23	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0824	24	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0825	25	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0826	26	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0827	27	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0828	28	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0829	29	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0830	30	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0831	31	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0832	32	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0833	33	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0834	34	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0835	35	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0836	36	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0837	37	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0838	38	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0839	39	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0840	40	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0841	41	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0842	42	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0843	43	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0844	44	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0845	45	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0846	46	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0847	47	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0848	48	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0849	49	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0850	50	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0851	51	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0852	52	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0853	53	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0854	54	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0855	55	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0856	56	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0857	57	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0858	58	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0859	59	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0860	60	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0861	61	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0862	62	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0863	63	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0864	64	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0865	65	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0866	66	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0867	67	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0868	68	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0869	69	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0870	70	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0871	71	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0872	72	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0873	73	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0874	74	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0875	75	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0876	76	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0877	77	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0878	78	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0879	79	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0880	80	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0881	81	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0882	82	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0883	83	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0884	84	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0885	85	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0886	86	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0887	87	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0888	88	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0889	89	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0890	90	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0891	91	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0892	92	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0893	93	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0894	94	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0895	95	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0896	96	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0897	97	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0898	98	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0899	99	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2800	100	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2801	101	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2802	102	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2803	103	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2804	104	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2805	105	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2806	106	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2807	107	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2808	108	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2809	109	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2810	110	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2811	111	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2812	112	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2813	113	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2814	114	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2815	115	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2816	116	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2817	117	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2818	118	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2819	119	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2820	120	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2821	121	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2822	122	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2823	123	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2824	124	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2825	125	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2826	126	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2827	127	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2828	128	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2829	129	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2830	130	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2831	131	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2832	132	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2833	133	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2834	134	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2835	135	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2836	136	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2837	137	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2838	138	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2839	139	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2840	140	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2841	141	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2842	142	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2843	143	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2844	144	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2845	145	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2846	146	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2847	147	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2848	148	8	6/13/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0901	1	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0902	2	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0903	3	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0904	4	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0905	5	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0906	6	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0907	7	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0908	8	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0909	9	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0910	10	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0911	11	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0912	12	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0913	13	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0914	14	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0915	15	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0916	16	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0917	17	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0918	18	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0919	19	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0920	20	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0921	21	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0922	22	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0923	23	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0924	24	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0925	25	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0926	26	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0927	27	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0928	28	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0929	29	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0930	30	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0931	31	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0932	32	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0933	33	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0934	34	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0935	35	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0936	36	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0937	37	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0938	38	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0939	39	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0940	40	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0941	41	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0942	42	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0943	43	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0944	44	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0945	45	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0946	46	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0947	47	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0948	48	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0949	49	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0950	50	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0951	51	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0952	52	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0953	53	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0954	54	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0955	55	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0956	56	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0957	57	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0958	58	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0959	59	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0960	60	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0961	61	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0962	62	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0963	63	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0964	64	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0965	65	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0966	66	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0967	67	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0968	68	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0969	69	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0970	70	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0971	71	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0972	72	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0973	73	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0974	74	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0975	75	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0976	76	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0977	77	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0978	78	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0979	79	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0980	80	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0981	81	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0982	82	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0983	83	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0984	84	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0985	85	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0986	86	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0987	87	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0988	88	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0989	89	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0990	90	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0991	91	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0992	92	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0993	93	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0994	94	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0995	95	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0996	96	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0997	97	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0998	98	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_0999	99	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2900	100	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2901	101	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2902	102	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2903	103	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2904	104	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2905	105	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2906	106	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2907	107	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2908	108	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2909	109	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2910	110	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2911	111	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2912	112	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2913	113	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2914	114	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2915	115	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2916	116	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2917	117	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2918	118	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2919	119	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2920	120	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2921	121	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2922	122	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2923	123	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2924	124	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2925	125	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2926	126	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2927	127	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2928	128	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2929	129	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2930	130	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2931	131	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2932	132	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2933	133	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2934	134	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2935	135	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2936	136	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2937	137	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2938	138	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2939	139	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2940	140	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2941	141	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2942	142	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2943	143	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2944	144	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2945	145	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2946	146	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2947	147	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2948	148	9	6/20/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1001	1	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1002	2	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1003	3	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1004	4	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1005	5	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1006	6	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1007	7	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1008	8	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1009	9	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1010	10	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1011	11	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1012	12	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1013	13	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1014	14	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1015	15	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1016	16	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1017	17	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1018	18	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1019	19	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1020	20	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1021	21	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1022	22	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1023	23	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1024	24	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1025	25	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1026	26	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1027	27	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1028	28	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1029	29	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1030	30	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1031	31	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1032	32	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1033	33	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1034	34	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1035	35	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1036	36	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1037	37	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1038	38	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1039	39	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1040	40	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1041	41	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1042	42	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1043	43	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1044	44	10	6/27/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1101	1	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1102	2	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1103	3	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1104	4	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1105	5	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1106	6	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1107	7	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1108	8	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1109	9	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1110	10	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1111	11	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1112	12	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1113	13	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1114	14	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1115	15	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1116	16	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1117	17	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1118	18	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1119	19	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1120	20	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1121	21	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1122	22	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1123	23	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1124	24	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1125	25	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1126	26	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1127	27	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1128	28	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1129	29	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1130	30	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1131	31	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1132	32	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1133	33	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1134	34	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1135	35	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1136	36	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1137	37	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1138	38	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1139	39	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1140	40	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1141	41	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1142	42	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1143	43	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1144	44	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1145	45	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1146	46	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1147	47	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1148	48	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1149	49	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1150	50	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1151	51	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1152	52	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1153	53	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1154	54	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1155	55	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1156	56	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1157	57	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1158	58	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1159	59	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1160	60	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1161	61	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1162	62	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1163	63	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1164	64	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1165	65	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1166	66	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1167	67	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1168	68	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1169	69	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1170	70	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1171	71	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1172	72	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1173	73	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1174	74	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1175	75	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1176	76	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1177	77	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1178	78	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1179	79	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1180	80	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1181	81	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1182	82	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1183	83	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1184	84	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1185	85	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1186	86	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1187	87	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1188	88	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1189	89	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1190	90	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1191	91	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1192	92	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1193	93	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1194	94	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1195	95	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1196	96	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1197	97	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1198	98	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1199	99	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3100	100	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3101	101	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3102	102	11	7/3/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1201	1	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1202	2	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1203	3	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1204	4	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1205	5	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1206	6	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1207	7	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1208	8	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1209	9	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1210	10	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1211	11	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1212	12	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1213	13	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1214	14	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1215	15	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1216	16	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1217	17	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1218	18	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1219	19	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1220	20	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1221	21	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1222	22	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1223	23	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1224	24	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1225	25	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1226	26	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1227	27	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1228	28	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1229	29	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1230	30	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1231	31	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1232	32	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1233	33	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1234	34	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1235	35	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1236	36	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1237	37	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1238	38	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1239	39	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1240	40	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1241	41	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1242	42	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1243	43	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1244	44	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1245	45	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1246	46	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1247	47	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1248	48	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1249	49	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1250	50	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1251	51	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1252	52	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1253	53	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1254	54	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1255	55	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1256	56	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1257	57	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1258	58	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1259	59	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1260	60	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1261	61	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1262	62	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1263	63	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1264	64	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1265	65	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1266	66	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1267	67	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1268	68	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1269	69	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1270	70	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1271	71	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1272	72	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1273	73	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1274	74	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1275	75	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1276	76	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1277	77	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1278	78	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1279	79	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1280	80	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1281	81	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1282	82	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1283	83	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1284	84	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1285	85	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1286	86	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1287	87	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1288	88	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1289	89	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1290	90	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1291	91	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1292	92	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1293	93	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1294	94	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1295	95	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1296	96	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1297	97	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1298	98	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1299	99	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3200	100	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3201	101	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3202	102	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3203	103	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3204	104	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3205	105	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3206	106	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3207	107	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3208	108	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3209	109	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3210	110	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3211	111	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3212	112	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3213	113	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3214	114	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3215	115	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3216	116	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3217	117	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3218	118	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3219	119	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3220	120	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3221	121	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3222	122	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3223	123	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3224	124	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3225	125	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3226	126	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3227	127	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3228	128	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3229	129	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3230	130	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3231	131	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3232	132	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3233	133	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3234	134	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3235	135	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3236	136	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3237	137	12	7/11/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1301	1	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1302	2	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1303	3	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1304	4	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1305	5	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1306	6	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1307	7	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1308	8	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1309	9	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1310	10	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1311	11	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1312	12	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1313	13	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1314	14	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1315	15	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1316	16	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1317	17	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1318	18	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1319	19	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1320	20	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1321	21	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1322	22	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1323	23	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1324	24	13	7/18/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1401	1	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1402	2	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1403	3	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1404	4	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1405	5	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1406	6	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1407	7	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1408	8	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1409	9	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1410	10	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1411	11	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1412	12	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1413	13	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1414	14	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1415	15	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1416	16	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1417	17	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1418	18	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1419	19	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1420	20	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1421	21	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1422	22	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1423	23	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1424	24	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1425	25	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1426	26	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1427	27	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1428	28	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1429	29	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1430	30	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1431	31	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1432	32	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1433	33	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1434	34	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1435	35	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1436	36	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1437	37	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1438	38	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1439	39	14	7/25/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1501	1	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1502	2	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1503	3	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1504	4	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1505	5	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1506	6	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1507	7	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1508	8	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1509	9	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1510	10	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1511	11	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1512	12	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1513	13	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1514	14	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1515	15	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1516	16	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1517	17	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1518	18	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1519	19	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1520	20	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1521	21	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1522	22	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1523	23	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1524	24	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1525	25	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1526	26	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1527	27	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1528	28	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1529	29	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1530	30	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1531	31	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1532	32	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1533	33	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1534	34	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1535	35	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1536	36	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1537	37	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1538	38	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1539	39	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1540	40	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1541	41	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1542	42	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1543	43	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1544	44	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1545	45	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1546	46	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1547	47	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1548	48	15	8/1/2018	Mix	Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1601	1	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1602	2	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1603	3	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1604	4	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1605	5	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1606	6	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1607	7	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1608	8	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1609	9	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1610	10	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1611	11	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1612	12	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1613	13	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1614	14	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1615	15	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1616	16	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1617	17	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1618	18	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1619	19	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1620	20	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1621	21	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1622	22	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1623	23	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1624	24	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1625	25	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1626	26	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1627	27	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1628	28	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1629	29	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1630	30	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1631	31	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1632	32	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1633	33	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1634	34	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1635	35	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1636	36	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1637	37	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1638	38	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1639	39	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1640	40	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1641	41	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1642	42	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1643	43	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1644	44	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1645	45	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1646	46	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1647	47	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1648	48	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1649	49	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1650	50	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1651	51	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1652	52	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1653	53	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1654	54	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1655	55	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1656	56	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1657	57	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1658	58	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1659	59	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1660	60	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1661	61	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1662	62	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1663	63	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1664	64	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1665	65	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1666	66	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1667	67	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1668	68	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1669	69	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1670	70	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1671	71	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1672	72	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1673	73	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1674	74	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1675	75	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1676	76	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1677	77	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1678	78	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1679	79	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1680	80	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1681	81	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1682	82	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1683	83	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1684	84	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1685	85	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1686	86	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1687	87	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1688	88	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1689	89	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1690	90	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1691	91	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1692	92	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1693	93	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1694	94	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1695	95	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1696	96	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1697	97	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1698	98	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1699	99	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3600	100	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3601	101	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3602	102	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3603	103	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3604	104	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3605	105	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3606	106	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3607	107	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3608	108	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3609	109	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3610	110	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3611	111	16	8/15/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1701	1	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1702	2	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1703	3	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1704	4	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1705	5	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1706	6	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1707	7	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1708	8	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1709	9	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1710	10	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1711	11	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1712	12	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1713	13	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1714	14	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1715	15	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1716	16	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1717	17	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1718	18	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1719	19	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1720	20	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1721	21	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1722	22	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1723	23	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1724	24	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1725	25	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1726	26	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1727	27	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1728	28	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1729	29	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1730	30	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1731	31	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1732	32	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1733	33	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1734	34	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1735	35	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1736	36	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1737	37	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1738	38	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1739	39	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1740	40	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1741	41	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1742	42	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1743	43	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1744	44	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1745	45	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1746	46	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1747	47	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1748	48	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1749	49	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1750	50	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1751	51	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1752	52	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1753	53	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1754	54	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1755	55	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1756	56	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1757	57	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1758	58	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1759	59	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1760	60	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1761	61	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1762	62	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1763	63	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1764	64	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1765	65	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1766	66	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1767	67	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1768	68	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1769	69	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1770	70	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1771	71	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1772	72	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1773	73	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1774	74	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1775	75	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1776	76	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1777	77	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1778	78	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1779	79	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1780	80	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1781	81	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1782	82	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1783	83	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1784	84	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1785	85	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1786	86	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1787	87	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1788	88	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1789	89	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1790	90	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1791	91	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1792	92	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1793	93	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1794	94	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1795	95	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1796	96	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1797	97	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1798	98	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1799	99	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3700	100	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3701	101	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3702	102	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3703	103	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3704	104	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3705	105	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3706	106	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3707	107	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3708	108	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3709	109	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3710	110	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3711	111	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_3712	112	17	8/18/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1801	1	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1802	2	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1803	3	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1804	4	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1805	5	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1806	6	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1807	7	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1808	8	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1809	9	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1810	10	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1811	11	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1812	12	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1813	13	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1814	14	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1815	15	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1816	16	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1817	17	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1818	18	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1819	19	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1820	20	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1821	21	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1822	22	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1823	23	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1824	24	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1825	25	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1826	26	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1827	27	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1828	28	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1829	29	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1830	30	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1831	31	18	8/22/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1901	1	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1902	2	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1903	3	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1904	4	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1905	5	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1906	6	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1907	7	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1908	8	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1909	9	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1910	10	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1911	11	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1912	12	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1913	13	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1914	14	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1915	15	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1916	16	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1917	17	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1918	18	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1919	19	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1920	20	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1921	21	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1922	22	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1923	23	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1924	24	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1925	25	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1926	26	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1927	27	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1928	28	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1929	29	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1930	30	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_1931	31	19	8/29/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2001	1	20	9/5/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2002	2	20	9/5/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2003	3	20	9/5/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2004	4	20	9/5/2018		Chinook	Spring		Adult	Rogue
+OtsAC18CORH_2005	5	20	9/5/2018		Chinook	Spring		Adult	Rogue
