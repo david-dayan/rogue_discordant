@@ -1,0 +1,467 @@
+---
+title: "Coquille River 2021 Genotyping"
+output:
+  html_document:
+    df_print: paged
+    code_folding: hide
+    toc: true
+    toc_float: true
+    toc_collapsed: false
+---
+
+```{r, message=FALSE, warning=FALSE}
+require(adegenet)
+require(knitr)
+require(tidyverse)
+require(magrittr)
+```
+
+# Readme
+
+This is document is an R notebook. If you'd like view to pre-rendered figures, read a summary of analysis and interact with code, please open the relevant html file in a browser. 
+
+To conduct a similar analyses on your computer, edit or run code: clone this repository into a directory on your local machine and open the .Rproj file in Rstudio.
+
+# Rationale
+
+This is the analysis log for the Rogue Discordant Chinook Project. The goals are (1) confirm genotypes of two GREB1L/ROCK1 SNPs genotyped with qPCR and found to be discordant (i.e. not in perfect LD) in spring run Chinook salmon sampled throughout the Rogue River in 2018 and (2) create a spreadsheet of genotypes at GREB1L/ROCK1 markers to visually examine patterns of linkage and genomic variation in the GREB1L region of spring run Chinook salmon sampled from the lower river in 2020. I also quickly made some LD plots so we wouldn't have to rely on eyeballing it.
+
+# Data Summary
+## Before Filtering
+
+Details on sequencing data, unfiltered genotypes and metadata available in genotyping notebook.
+
+__Metadata__
+```{r, message=FALSE, warning=FALSE}
+OtsAC18_run022 <- readxl::read_xlsx("metadata/GT-seq_GC3F-CKF-005_metadata.xlsx", sheet = 3)
+OtsAC20_meta <- readxl::read_xlsx("metadata/GT-seq_GC3F-CKF-005-OtsAC20ROGR.xlsx", sheet = 1)
+
+index_list <- read_csv("metadata/GT-seq_GC3F-CKF-005_Index.csv")
+colnames(index_list) <- c("sample", "i7", "i5")
+Ots_indexes <- filter(index_list, str_detect(sample, "Ots"))
+
+#quick check that all samples with in the library have metadata
+#sum(Ots_indexes$sample %in% c(OtsAC18_run022$Sample, OtsAC20_meta$`Individual Name`))
+#yes all there
+
+#lets grab the metadata for the 2018 samples from Sandra's metadata spreadsheet
+OtsAC18_meta <- read_tsv("metadata/Rogue River_Cole Rivers Hatchery Broodstock_2018_Progeny.txt")
+OtsAC18_meta %<>%
+  right_join(OtsAC18_run022, by = c("SFGL ID"="Sample"))
+
+#now let's clean this up
+OtsAC18_meta %<>%
+  select("SFGL ID", Date, "Wild/Hatchery", "...2", "Greb1L SNP1", "Greb1L SNP2", "Ots_SEXY3-1") %>%
+  rename("sample"="SFGL ID", "date" = "Date", "NOR_HOR"="Wild/Hatchery", "location"="...2")
+
+#and combine it with 2020 samples
+
+OtsAC20_meta %<>%
+  select("Individual Name", DateSampled, IndividualSampleLOCATION, Marks) %>%
+  rename(sample="Individual Name", date = DateSampled, location = IndividualSampleLOCATION, NOR_HOR = Marks)
+
+OtsAC18_meta %<>%
+  mutate(date = as.Date(date, format= "%m/%d/%Y"))
+
+
+meta_data <- OtsAC18_meta %>%
+  bind_rows(OtsAC20_meta) 
+
+#all there?
+#str_sub(index_list$sample[str_detect(index_list$sample, "Ots")], 0,17) %in% meta_data$sample
+#yes all Ots samples in the index list are in the metadata spreadsheet
+
+#clean up a little more
+meta_data %<>%
+  filter(if_any(everything(), ~ !is.na(.))) %>%
+  mutate(NOR_HOR = case_when(NOR_HOR == "Unmarked" ~ "NOR",
+                             NOR_HOR == "Mix" ~ "NA",
+                             NOR_HOR == "Hatchery" ~ "HOR",
+                             TRUE ~ NOR_HOR)) %>%
+  mutate(repeat_sample = case_when(is.na(`Greb1L SNP1`) ~ "new",
+                                   TRUE ~ "prev_genotyped")) %>%
+  mutate(NOR_HOR = na_if(NOR_HOR, "NA"))
+
+
+kable(meta_data %>%
+        group_by(repeat_sample) %>%
+  summarise(n = n()) )
+
+kable(meta_data %>%
+        ungroup()%>%
+  group_by(repeat_sample, NOR_HOR, location) %>%
+  summarise(n = n()) )
+
+rm(index_list)
+rm(Ots_indexes)
+rm(OtsAC18_meta)
+rm(OtsAC18_run022)
+rm(OtsAC20_meta)
+
+#when picking back up fix the year issue here (previously genotyped samples from 2019 and 2020 don't have year, plus the thing we're interested in isnt year, it's genotype status (previously genotyped at TASHA SNPs or not))
+```
+
+There are 300 individuals overall, including 89 indviduals that were previously genotyped at two GREB1L SNPs and observed to be "discordant" sampled in 2018-2020, and 211 new individuals sampled in 2020. All new individuals are NOR, previously genotyped samples are almost all unknown origin (jar of fin clips with both NOR and HOR mixed).   
+Sampling locations for new individuals are throughout the lower Rogue (Bay, Huntley Park - river mile 8, Quotsana Creek - river mile 14, Lobster Creek river mile 43, Port- ?, Mill site - ?) and sampling dates span from April 12th to October 7th, inclusive of both spring and fall runs.
+
+
+## Final Dataset
+
+```{r, message = FALSE, warning=FALSE}
+load("genotype_data/genind_2.0.R")
+load("genotype_data/genotypes_2.2.R")
+
+kable(genos_2.2 %>%
+        group_by(repeat_sample) %>%
+  summarise(n = n()) )
+
+
+kable(genos_2.2 %>%
+        ungroup()%>%
+  group_by(repeat_sample, NOR_HOR, location) %>%
+  summarise(n = n()) )
+
+```
+
+Final dataset is composed of 296 individuals genotyped at 330 markers.
+
+# qPCR-GTseq Concordance
+
+87 individuals in the dataset were previously genotyped at two SNPs using qPCR. 
+
+__SNP 1:__  
+GTseq Panel name: Ots37124_12277401	 
+SWFSC	name:  RA4.T−12277551	/ NC_037124.1:12277401-12277701 / Tasha-SNP-1  
+Postion on GCA_002872995.1 Chr 28: 12277551   
+Early Allele: T (inferred from Sandra's run timing summary)
+Late Allele: A 
+
+__SNP 2:__  
+GTseq Panel name: Ots37124_12310649	  
+SWFSC	name:  RA7.T−12310799	NC_037124.1:12310649-12310949_Tasha-SNP-2  
+Position on GCA_002872995.1 Chr 28: 12310799    
+Early Allele: A  (inferred from Sandra's run timing summary)
+Late Allele: T 
+
+```{r, message=FALSE, warning=FALSE}
+# are the genotype calls always concordant
+
+kable(genos_2.2 %>%
+  filter(repeat_sample == "prev_genotyped") %>%
+  select(`Greb1L SNP1`, `Ots37124-12277401`) %>%
+  mutate(SNP1_translate = case_when(tolower(`Greb1L SNP1`) == "heterozygous" ~ "TA",
+                                    tolower(`Greb1L SNP1`) == "homozygous spring" ~ "TT",
+                                    tolower(`Greb1L SNP1`) == "homozygous fall" ~ "AA")) %>%
+  mutate(SNP1_agree = (`Ots37124-12277401`	== SNP1_translate)) %>%
+  group_by(SNP1_agree) %>%
+  summarise(n=n()), caption = 'Tasha SNP1 vs Ots37124_12277401 Agreement')
+
+
+kable(genos_2.2 %>%
+  filter(repeat_sample == "prev_genotyped") %>%
+  select(`Greb1L SNP2`, `Ots37124-12310649`) %>%
+  mutate(SNP2_translate = case_when(tolower(`Greb1L SNP2`) == "heterozygous" ~ "AT",
+                                    tolower(`Greb1L SNP2`) == "homozygous spring" ~ "AA",
+                                    tolower(`Greb1L SNP2`) == "homozygous fall" ~ "TT")) %>%
+  mutate(SNP2_agree = (`Ots37124-12310649`	== SNP2_translate)) %>%
+  group_by(SNP2_agree) %>%
+  summarise(n=n()), caption = 'Tasha SNP2 vs Ots37124-12310649 Agreement')
+
+
+```
+
+99% agreement (86 of 87) for both SNP1 and SNP2. Interestingly, the same individual (OtsAC20CORH_0043) was the sole disagreement at either SNP.
+
+# GREB1L Region LD
+
+Let's examine the pattern of LD in the Ots28 migration-timing region.
+
+First, we'll create a dataset for previously genotyped samples with discordant genotypes
+```{r, cache = TRUE, warning = FALSE, message=FALSE}
+prev_genotyped <- genos_2.2 %>%
+  filter(repeat_sample == "prev_genotyped") %>%
+  pull(sample)
+
+prev_geno_genind <- genind_2.0[which(indNames(genind_2.0) %in% prev_genotyped),]
+
+ldreport_disc_samples <- dartR::gl.report.ld(dartR::gi2gl(prev_geno_genind, verbose = 0), name = NULL, save = FALSE, nchunks = 2, ncores = 3, chunkname = NULL, verbose = 0)
+
+#now we need to add loci names back to this report
+name_key <- data.frame(names(prev_geno_genind$loc.n.all), c(1:329))
+colnames(name_key) <- c("marker", "id")
+
+ldreport_disc_samples %<>%
+  left_join(name_key, by = c("loc1"="id")) %>%
+  rename(marker_1 = marker) %>%
+  left_join(name_key, by = c("loc2"="id")) %>%
+  rename(marker_2 = marker) 
+
+#now get Ots28 marker info
+ots28_info <- readxl::read_xlsx("metadata/Ots28_marker_info.xlsx", sheet = 2)
+
+ldreport28_disc_samples <- ldreport_disc_samples %>%
+  filter(marker_1 %in% ots28_info$`Marker Name`) %>%
+  filter(marker_2 %in% ots28_info$`Marker Name`) %>%
+  left_join(select(ots28_info, `Marker Name`, Position), by = c("marker_1" = "Marker Name")) %>%
+  rename(marker1_position = Position) %>%
+  left_join(select(ots28_info, `Marker Name`, Position), by = c("marker_2" = "Marker Name")) %>%
+  rename(marker2_position = Position)
+
+ldreport28_disc_samples$marker_1 <- reorder(ldreport28_disc_samples$marker_1, ldreport28_disc_samples$marker1_position)
+ldreport28_disc_samples$marker_2 <- reorder(ldreport28_disc_samples$marker_2, ldreport28_disc_samples$marker2_position)
+
+
+```
+
+Then the same for new samples with genotypes that better reflect the population at large. 
+
+```{r, cache = TRUE, warning = FALSE, message=FALSE}
+new_samples <- genos_2.2 %>%
+  filter(repeat_sample == "new") %>%
+  pull(sample)
+
+new_genind <- genind_2.0[which(indNames(genind_2.0) %in% new_samples),]
+
+ldreport_new_samples <- dartR::gl.report.ld(dartR::gi2gl(new_genind, verbose = 0), name = NULL, save = FALSE, nchunks = 2, ncores = 3, chunkname = NULL, verbose = 0)
+
+#now we need to add loci names back to this report
+name_key <- data.frame(names(new_genind$loc.n.all), c(1:329))
+colnames(name_key) <- c("marker", "id")
+
+ldreport_new_samples %<>%
+  left_join(name_key, by = c("loc1"="id")) %>%
+  rename(marker_1 = marker) %>%
+  left_join(name_key, by = c("loc2"="id")) %>%
+  rename(marker_2 = marker) 
+
+#now get Ots28 marker info
+ots28_info <- readxl::read_xlsx("metadata/Ots28_marker_info.xlsx", sheet = 2)
+
+ldreport28_new_samples <- ldreport_new_samples %>%
+  filter(marker_1 %in% ots28_info$`Marker Name`) %>%
+  filter(marker_2 %in% ots28_info$`Marker Name`) %>%
+  left_join(select(ots28_info, `Marker Name`, Position), by = c("marker_1" = "Marker Name")) %>%
+  rename(marker1_position = Position) %>%
+  left_join(select(ots28_info, `Marker Name`, Position), by = c("marker_2" = "Marker Name")) %>%
+  rename(marker2_position = Position)
+
+ldreport28_new_samples$marker_1 <- reorder(ldreport28_new_samples$marker_1, ldreport28_new_samples$marker1_position)
+ldreport28_new_samples$marker_2 <- reorder(ldreport28_new_samples$marker_2, ldreport28_new_samples$marker2_position)
+
+
+```
+Now, let's examine the LD pattern at the samples with known discordance betweeen SNP1 and SNP2 (previously genotyped, discordant samples) vs the new sample that is theoretically more reflective of the actual population.
+```{r, cache = TRUE, warning = FALSE, message=FALSE}
+ggplot(data = filter(ldreport28_disc_samples ))+geom_tile(aes(marker_1, marker_2, fill = R2), size = 2)+scale_fill_viridis_c(option = "C")+theme_classic()+theme(axis.text.x = element_text(angle = 90))+ggtitle("Previously Genotyped Samples\nwith Discordant Genotypes")+coord_equal()
+
+ggplot(data = filter(ldreport28_new_samples ))+geom_tile(aes(marker_1, marker_2, fill = R2))+scale_fill_viridis_c(option = "C")+theme_classic()+theme(axis.text.x = element_text(angle = 90))+ggtitle("New Samples\nMore Reflective of Population")+coord_equal()
+
+
+```
+
+It appears that markers Ots28_11070757 to Ots28_11201129 are in strong linkage, when considering the new samples that are more reflective of population-wide genetic variation, but when considering the biased sample of previously genotyped individuals with discordant genotypes, the discordance seems to stem from the inheritance of two different haplotype blocks within the GREB1l region: (1) from Ots28_11070757 to Ots28_11077576, and (2) from Ots28_11143508 to Ots28_11201129.
+
+__How common is this recombination event?__
+
+We should be able to roughly estimate the frequency of this recombination by looking for individuals in the new samples that have discordant genotypes across the two haplotype blocks.
+
+First, let's look just at discordance between SNP1 and SNP2 for consistency.
+
+```{r}
+genos_2.2 %>%
+  filter(repeat_sample == "new") %>%
+  mutate(SNP1_geno_new = case_when(`Ots37124-12277401` == "TT" ~ "hom_spring",
+                                   `Ots37124-12277401` == "AA" ~ "hom_fall",
+                                   `Ots37124-12277401` == "TA" ~ "het")) %>%
+  mutate(SNP2_geno_new = case_when(`Ots37124-12310649` == "AA" ~ "hom_spring",
+                                   `Ots37124-12310649` == "TT" ~ "hom_fall",
+                                   `Ots37124-12310649` == "AT" ~ "het")) %>%
+  mutate(concord_gtseq = case_when(SNP1_geno_new == SNP2_geno_new ~ "concordant",
+                                   TRUE ~"discordant")) %>%
+  ungroup() %>%
+  count(concord_gtseq)
+  #select(sample, concord_gtseq, SNP1_geno_new, SNP2_geno_new, `Ots37124-12277401`, `Ots37124-12310649`)
+  
+```
+
+4 of the 209 new samples have discordant genotypes at SNP1 and SNP2. This suggests the recombinant genotype occurs in about (~2%) of individuals. It will only be a rough estimation with so few samples, but, now let's use these indivuals to see if the LD break point is similar in these individuals to our previously genotyped samples.
+
+
+```{r, cache = TRUE, warning = FALSE, message=FALSE}
+disco_new_inds <- genos_2.2 %>%
+  filter(repeat_sample == "new") %>%
+  mutate(SNP1_geno_new = case_when(`Ots37124-12277401` == "TT" ~ "hom_spring",
+                                   `Ots37124-12277401` == "AA" ~ "hom_fall",
+                                   `Ots37124-12277401` == "TA" ~ "het")) %>%
+  mutate(SNP2_geno_new = case_when(`Ots37124-12310649` == "AA" ~ "hom_spring",
+                                   `Ots37124-12310649` == "TT" ~ "hom_fall",
+                                   `Ots37124-12310649` == "AT" ~ "het")) %>%
+  mutate(concord_gtseq = case_when(SNP1_geno_new == SNP2_geno_new ~ "concordant",
+                                   TRUE ~"discordant")) %>%
+  ungroup() %>%
+  filter(concord_gtseq == "discordant") %>%
+  pull(sample)
+
+disco_new_genind <- genind_2.0[which(indNames(genind_2.0) %in% disco_new_inds),]
+
+ldreport_disco_new_samples <- dartR::gl.report.ld(dartR::gi2gl(disco_new_genind, verbose = 0), name = NULL, save = FALSE, nchunks = 2, ncores = 3, chunkname = NULL, verbose = 0)
+
+#now we need to add loci names back to this report
+name_key <- data.frame(names(disco_new_genind$loc.n.all), c(1:329))
+colnames(name_key) <- c("marker", "id")
+
+ldreport_disco_new_samples %<>%
+  left_join(name_key, by = c("loc1"="id")) %>%
+  rename(marker_1 = marker) %>%
+  left_join(name_key, by = c("loc2"="id")) %>%
+  rename(marker_2 = marker) 
+
+#now get Ots28 marker info
+ots28_info <- readxl::read_xlsx("metadata/Ots28_marker_info.xlsx", sheet = 2)
+
+ldreport28_disco_new_samples <- ldreport_disco_new_samples %>%
+  filter(marker_1 %in% ots28_info$`Marker Name`) %>%
+  filter(marker_2 %in% ots28_info$`Marker Name`) %>%
+  left_join(select(ots28_info, `Marker Name`, Position), by = c("marker_1" = "Marker Name")) %>%
+  rename(marker1_position = Position) %>%
+  left_join(select(ots28_info, `Marker Name`, Position), by = c("marker_2" = "Marker Name")) %>%
+  rename(marker2_position = Position)
+
+ldreport28_disco_new_samples$marker_1 <- reorder(ldreport28_disco_new_samples$marker_1, ldreport28_disco_new_samples$marker1_position)
+ldreport28_disco_new_samples$marker_2 <- reorder(ldreport28_disco_new_samples$marker_2, ldreport28_disco_new_samples$marker2_position)
+
+ggplot(data = ldreport28_disco_new_samples)+geom_tile(aes(marker_1, marker_2, fill = R2), size = 2)+scale_fill_viridis_c(option = "C")+theme_classic()+theme(axis.text.x = element_text(angle = 90))+ggtitle("New samples with\ndiscordant genotypes")+coord_equal()
+```
+
+Yep, same break point in the LD pattern.
+
+## LD Discussion
+
+__How does this pattern compare to previous findings?__
+
+Understanding variation among Chinook salmon lineages in patterns of linkage disequilibrium within the GREB1L/ROCK1 genomic region is an important step towards understanding how genetic information in this region can be used to further conservation goals. In a previous study (Koch and Narum 2020), patterns of LD were found to vary among lineages of Columbia River Chinook salmon. While lower Columbia and interior ocean-type lineages possess a single haplotype block around the SNPs most strongly associated with migration timing (Koch and Narum figure 2a,b) [(Koch and Narum figure 2a,b)](images/Screen Shot 2021-10-04 at 5.51.16 PM.png). 
+
+Interior stream-type Chinook salmon have two distinct haplotype blocks in this region (Koch and Narum figure 2c). [(Koch and Narum figure 2c)](images/Screen Shot 2021-10-04 at 5.42.24 PM.png).
+
+Interstingly, the two distinct haplotype blocks in our discordant samples have nearly the same boundaries as those found in the interior stream-type sample from Koch and Narum, although the the marker at the breakpoint in the latter study is not included in our dataset (Ots28_11078636). 
+
+_relevant Koch and Narum Figure marker id's:_  
+16:	Ots28_11077576  
+17:	Ots28_11078636 (we don't have this marker)  
+18:	Ots28_11095755  
+
+
+
+__Are "new" samples reflective of natural diversity in the Rogue Basin__  
+
+Something to keep in mind in interpreting these results, to discuss with lab. 
+
+# Genotype Table Output
+
+It can be useful to output genotypes in an excel table to enable exploratory data analysis.
+
+## Polarize alleles
+
+We need a way to call (polarize) spring and fall alleles to generate an informative genotype table. In the past we've used alleles polarized in Columbia River populations and using a handful (1 spring, 2 fall) of samples with confirmed run timing, but given the wide sampling date range of this dataset we can probably use the data to call spring and fall allele emprically. Here we polarize alleles as spring or fall according to the change in allele frequency over time in this dataset. 
+
+First, let's check that allele frequency at these markers changes over time. As an informal analysis, we'll reduce dimensionality with a PCA, then look for a pattern between PC space and sample date.
+
+```{r, message=FALSE, warning=FALSE}
+
+run_timing_markers <- ots28_info$`Marker Name`
+run_timing_markers <- str_replace(run_timing_markers, "37124_", "37124-")
+genind28 <- genind_2.0[loc=run_timing_markers]
+
+# set missing data to mean allele freq (PCA does not accomodate NAs)
+X <- scaleGen(genind28,  NA.method="mean")
+
+
+#then run pca, keep all PCs
+pca1 <- dudi.pca(X, scale = FALSE, scannf = FALSE, nf = 68)
+
+#kept all PCs
+snp_pcs <- pca1$li#[,c(1:kg)]
+
+#now plot data
+snp_pcs %<>%
+  rownames_to_column("sample") %>%
+  left_join(select(genos_2.2, sample, date, repeat_sample))
+
+snp_pcs %<>%
+  mutate(jul_date = as.numeric(format(date, "%j"))) %>%
+  filter(repeat_sample == "new")
+
+ggplot(data = snp_pcs)+geom_point(aes(Axis1, Axis2, color = jul_date)) + theme_classic()+scale_color_viridis_c(name = "Julian Sampling Date")
+
+ggplot(data = snp_pcs)+geom_point(aes(Axis3, Axis4, color = jul_date))  +theme_classic()+scale_color_viridis_c(name = "Julian Sampling Date")
+```
+
+Yes, there's a strong pattern here and we are safe to polarize alleles as early or late-migrating using this dataset.
+
+We'll take the major allele observed in the first 50 days of samples and call that the spring allele. Note that this cutoff is somewhat arbitrary and based on the distribution of dates in the early cluster in the PCA.
+
+```{r, message=FALSE, warning=FALSE}
+first_50d_samples <- genos_2.2 %>%
+  filter(date < "2020-05-26" & repeat_sample == "new") %>%
+  pull(sample)
+
+genind28_early <- genind28[which(indNames(genind28) %in% first_50d_samples),]
+genind28_early$pop <- as.factor(rep("rogue", 47))
+
+# let's determine the maj and minor alleles for this dataset
+early_allele_df <- as.data.frame(colSums(genind28_early$tab, na.rm = TRUE)) 
+
+early_allele_df %<>%
+  rownames_to_column(var = "adegent_name") %>%
+  rename(count = "colSums(genind28_early$tab, na.rm = TRUE)") %>%
+  mutate(marker = str_replace(adegent_name, "(.*)\\.[ATCG]", replacement = "\\1")) %>%
+  mutate(allele = str_replace(adegent_name, ".*\\.([ATCG])", replacement = "\\1")) %>%
+  group_by(marker) %>%
+  slice_max(count) %>%
+  select(marker, allele)
+
+#oops to use this as a key for an excel spreadsheet, we would need to get the other alele too
+
+late_allele_df <- as.data.frame(colSums(genind28_early$tab, na.rm = TRUE)) 
+
+late_allele_df %<>%
+  rownames_to_column(var = "adegent_name") %>%
+  rename(count = "colSums(genind28_early$tab, na.rm = TRUE)") %>%
+  mutate(marker = str_replace(adegent_name, "(.*)\\.[ATCG]", replacement = "\\1")) %>%
+  mutate(late_allele = str_replace(adegent_name, ".*\\.([ATCG])", replacement = "\\1")) %>%
+  group_by(marker) %>%
+  slice_min(count) %>%
+  select(marker, late_allele)
+
+early_allele_df %<>%
+  left_join(late_allele_df) %>%
+  rename(early_allele = allele)
+
+#write_tsv(early_allele_df, "empirical_run_timing_allele_key.txt")
+```
+
+## export
+Now, let's export the data
+```{r, eval = FALSE}
+# we'll grab the data from the genos_2.0 df, but order the markers according to genomic position
+
+#fix ots28_info marker name
+ots28_info2 <- ots28_info %>%
+  mutate(`Marker Name` = str_replace(`Marker Name`, "37124_", "37124-")) %>%
+  filter(`Marker Name` != "Ots37124-12279142")
+
+#write_tsv(genos_2.2 %>%
+  mutate(jul_date = format(date, "%j")) %>%
+  select(sample, repeat_sample, date, jul_date, location, NOR_HOR, pull(ots28_info2, `Marker Name`)), "genotype_data/run_timing_geno_table.txt")
+```
+
+
+# Future analysis suggestions
+
+A couple suggested next steps for this data if we want to do more with it in the future.
+
+__(1) Association study__ - We may have a fairly representative sample here and a decent enough phenotype (sample date in lower river). It's not exactly publishable because sample date is not freshwater entry and residence time in the lower river varies across runs, so the strength of correlation between sample date and freshwater entry varies across runs.  
+However, there may be some utility in examining examine which alleles or haplotype blocks are most informative for migration-timing in the Rogue even with this caveat about phenotype, in case using qPCR or variation at a limited number of markers to call phenotypes becomes a goal in the future. My brain wants to do this automatically when I start to look at that genotype table or LD figure, clearly some markers are more correlated with sample date than others.  
+
+__(2) Within Basin Structure __ - It's also hard not to attempt to break up the genetic variation that exists within a sample taken low in the river and therefore containing all the within basin structure, there's no real utility here, other than perhaps linking neutral genetic clusters with variation at known adaptive loci.  
+
